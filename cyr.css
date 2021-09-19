@@ -5,10 +5,7 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-body {
-        background-image: url(backrounds.jpg);
-        background-color: white;
-}
+
 #portrait {
         height: 200px;
         float: right;

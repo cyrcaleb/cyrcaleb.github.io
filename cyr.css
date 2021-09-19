@@ -8,8 +8,7 @@ body {
         display: inline;       
 }
 #centeralign {
-        text-align: left;
-        width: 50%;
+        text-align: center;
 }
 #banner {
         height: 200px;

@@ -3,7 +3,7 @@ body {
         padding: 0; margin: 0; 
             }
 #portrait {
-        width: 250px;
+        height: 200px;
         float: right;
         display: inline;
         

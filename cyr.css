@@ -10,3 +10,8 @@ body {
 #centeralign {
         text-align: center;
 }
+#banner {
+        height: 200px;
+        float: right;
+        display: inline;
+}

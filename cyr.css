@@ -6,16 +6,20 @@ body {
     background-repeat:   no-repeat;
     background-position: center center;
 }
+/*
 #portrait {
         height: 200px;
         float: right;
         display: inline;       
 }
-#centeralign {
-        text-align: center;
-}
+
 #banner {
         height: 200px;
         float: left;
         display: inline;
+}
+*/
+
+#centeralign {
+        text-align: center;
 }

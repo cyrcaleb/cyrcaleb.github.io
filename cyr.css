@@ -7,6 +7,6 @@ body {
         float: right;
         display: inline;       
 }
-.centeralign {
+#centeralign {
         text-align: center;
 }

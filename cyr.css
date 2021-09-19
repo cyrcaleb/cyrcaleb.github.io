@@ -5,5 +5,5 @@ body {
 #portrait {
         width: 150px;
         float: right;
-        margin: 1px;
+        margin-left: 1px;
 }

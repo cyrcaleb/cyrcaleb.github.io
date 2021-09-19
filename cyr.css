@@ -1,9 +1,7 @@
 
 body {
         background-image: url("backgrounds");
-        background-repeat: no-repeat;
-        background-size: cover;
-        padding: 0; margin: 0;
+        
 }
 #portrait {
         height: 200px;

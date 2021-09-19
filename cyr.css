@@ -9,6 +9,7 @@ body {
 }
 #centeralign {
         text-align: center;
+        width: 50%;
 }
 #banner {
         height: 200px;

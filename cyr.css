@@ -1,7 +1,9 @@
 
 body {
-        background-image: url(backrounds.jpg);
-        background-color: white;
+      background-image:    url(backrounds.jpg);
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    background-position: center center;
 }
 #portrait {
         height: 200px;

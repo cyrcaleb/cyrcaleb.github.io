@@ -2,6 +2,8 @@
 body {
         background-image: url("backrounds.jpg");
         background-color: white;
+        background-repeat: no-repeat;
+        background-size: cover;
 }
 #portrait {
         height: 200px;

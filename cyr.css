@@ -4,6 +4,6 @@ body {
             }
 #portrait {
         width: 150px;
-        float: right;
+        float: left;
         margin-left: 1px;
 }

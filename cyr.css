@@ -24,6 +24,12 @@ body {
         text-align: center;
 }
 h1 {
+    color: #00008B;
+}
+p { 
     color: #008B8B;
 }
       
+div {
+  width: 50%;
+}

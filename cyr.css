@@ -30,4 +30,8 @@ p {
     color: white;
     font-size: 18px;
 }
-      
+#longboard {
+      width: 150;
+      float: right;
+      margin-left; 6px
+}

@@ -36,12 +36,11 @@ p {
       margin: 6px;
 }
 #snapchat {
-      width: 200px;
-      clear: both;
+      width: 700px;
       margin: 6px;
 }
 #louis {
-      width: 500px;
-      float: right;
+      width: 200px;
+      float: left;
       margin: 6px;
 }

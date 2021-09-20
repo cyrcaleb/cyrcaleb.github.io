@@ -37,7 +37,7 @@ p {
 }
 #snapchat {
       width: 200px;
-      clear; both;
+      clear: both;
       margin: 6px;
 }
 #louis {

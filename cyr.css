@@ -32,15 +32,15 @@ p {
 }
 #longboard {
       width: 200px;
-      float: left;
+      float: right;
       margin: 6px;
 }
 #snapchat {
-      height: 200px;
+      height: 400px;
       margin: 6px;
 }
 #louis {
       width: 200px;
-      float: left;
+      float: right;
       margin: 6px;
 }

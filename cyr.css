@@ -11,6 +11,7 @@ body {
     background-image:    url(lightbluebackground.jpg);
     background-color: #8fc0c2;
     background-size: auto;
+    background-repeat: repeat;
     background-position: center center;
 }
 /*

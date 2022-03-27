@@ -10,7 +10,7 @@ body {
 body {
     background-image:    url(lightbluebackground.jpg);
     background-color: #8fc0c2;
-    background-size:     cover;                     
+    background-size: auto;
     background-position: center center;
 }
 /*

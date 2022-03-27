@@ -1,7 +1,14 @@
-
+/* OG background
 body {
-      background-image:    url(bluebackground.jpg);
-      background-color: #87CEFA;
+    background-image:    url(bluebackground.jpg);
+    background-color: #87CEFA;
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+*/
+body {
+    background-color: #FFFFF;
     background-size:     cover;                     
     background-repeat:   no-repeat;
     background-position: center center;

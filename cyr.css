@@ -40,8 +40,14 @@ h1 {
 h2 {
     color: #00008B;
 }
+/* ORIGINAL
 p { 
     color: white;
+    font-size: 18px;
+}
+*/
+p { 
+    color: Black;
     font-size: 18px;
 }
 #longboard {

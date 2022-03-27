@@ -8,6 +8,7 @@ body {
 }
 */
 body {
+    background-image:    url(bluebackground.jpg);
     background-color: #FFFFFF;
     background-size:     cover;                     
     background-repeat:   no-repeat;

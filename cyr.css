@@ -64,7 +64,7 @@ p {
       margin: 6px;
 }
 
-#hangingindent {
+.hangingindent {
   padding-left: 22px ;
   text-indent: -22px ;
 }

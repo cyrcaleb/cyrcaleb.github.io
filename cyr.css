@@ -64,6 +64,18 @@ p {
       margin: 6px;
 }
 
+#mblocks {
+      width: 200px;
+      float: right;
+      margin: 6px;
+}
+
+#mediamagnet {
+      width: 200px;
+      float: right;
+      margin: 6px;
+}
+
 .hangingindent {
   padding-left: 22px ;
   text-indent: -22px ;
